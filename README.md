@@ -3,6 +3,6 @@ This is my independent project wherein my endeavor has been to create a Gamble s
 The user will then be able to view the updated balance and play further if they wish to.
 
 ## Learning Outcomes
--There are few key concepts relating to creating new functions and calling them back used in this project
--The random lib has been imported in order to make the spin random.
+There are few key concepts relating to creating new functions and calling them back used in this project.   
+The random lib has been imported in order to make the spin random.
 
